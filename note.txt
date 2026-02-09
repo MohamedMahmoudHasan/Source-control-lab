@@ -1,5 +1,7 @@
 centralize - distributed
 
-ssh
+ssh - SHA256
 
 add commit push pull
+
+lab
