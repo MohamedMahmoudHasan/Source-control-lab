@@ -1,0 +1,5 @@
+centralize - distributed
+
+ssh
+
+add commit push pull
